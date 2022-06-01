@@ -110,6 +110,7 @@ Serial.print(soilmoisturepercent);
     //bot.sendMessage(CHAT_ID, "motor turned off", "");
     digitalWrite (ledPin, LOW);
     delay(1000);
+    
 }
 
     
